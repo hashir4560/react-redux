@@ -1,4 +1,5 @@
 import React from "react";
+
 const ProductComponent = () => {
   return (
     <div>
@@ -6,4 +7,5 @@ const ProductComponent = () => {
     </div>
   );
 };
+
 export default ProductComponent;
